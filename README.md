@@ -6,7 +6,7 @@ linear interpolation to generate a gradient image which transitions from one col
 You end up with something that looks like this:
 
 <div align="center">
-<img src="./images/image.png"/>
+  <img src="https://github.com/sKorpion19091/gradient-image-generator/blob/main/images/image.png" alt="Example Image"/>
 </div>
 
 The above image is gradient of white to blue.
